@@ -3,19 +3,19 @@ import giftData from '@/lib/giftData'
 import GiftClient from '@/components/GiftClient'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://agiftforyouuu.vercel.app'),
+  metadataBase: new URL('https://happybirthdayseif.vercel.app/'),
   title: 'Happy Birthday seif! 🎂',
   description: 'A special birthday message for Seif 🤍',
   openGraph: {
     title: 'Happy Birthday Seif! 🎂',
     description: 'A special birthday message for Seif 🤍',
-    url: 'https://agiftforyouuu.vercel.app',
+    url: 'https://happybirthdayseif.vercel.app',
     siteName: 'Birthday Gift',
     type: 'website',
     images: [
       {
-        url: 'https://agiftforyouuu.vercel.app/images/og-cat.jpg',
-        secureUrl: 'https://agiftforyouuu.vercel.app/images/og-cat.jpg',
+        url: 'https://happybirthdayseif.vercel.app/images/og-cat.jpg',
+        secureUrl: 'https://happybirthdayseif.vercel.app/images/og-cat.jpg',
         width: 1200,
         height: 630,
         type: 'image/jpeg',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Happy Birthday Seif! 🎂',
     description: 'A special birthday message for Seif 🤍',
-    images: ['https://agiftforyouuu.vercel.app/images/og-cat.jpg'],
+    images: ['https://happybirthdayseif.vercel.app/images/og-cat.jpg'],
   },
 }
 
